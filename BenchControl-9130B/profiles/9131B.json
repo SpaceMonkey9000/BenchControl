@@ -1,0 +1,26 @@
+{
+  "model": "9131B",
+  "driver": "bk9130b",
+  "enabled": true,
+  "interface": "USBTMC",
+  "channels": [
+    {
+      "channel": 1,
+      "max_voltage_V": 30,
+      "max_current_A": 6
+    },
+    {
+      "channel": 2,
+      "max_voltage_V": 30,
+      "max_current_A": 6
+    },
+    {
+      "channel": 3,
+      "max_voltage_V": 5,
+      "max_current_A": 3
+    }
+  ],
+  "product_url": "https://www.bkprecision.com/products/power-supplies/9131B",
+  "programming_reference": "https://bkpmedia.s3.us-west-1.amazonaws.com/downloads/programming_manuals/en-us/9130B_Series_programming_manual.pdf",
+  "verification": "Command manual explicitly covers this model; hardware not tested here."
+}

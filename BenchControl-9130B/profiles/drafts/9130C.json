@@ -1,0 +1,26 @@
+{
+  "model": "9130C",
+  "driver": null,
+  "enabled": false,
+  "interface": "USBTMC",
+  "channels": [
+    {
+      "channel": 1,
+      "max_voltage_V": 30,
+      "max_current_A": 3
+    },
+    {
+      "channel": 2,
+      "max_voltage_V": 30,
+      "max_current_A": 3
+    },
+    {
+      "channel": 3,
+      "max_voltage_V": 5,
+      "max_current_A": 3
+    }
+  ],
+  "product_url": "https://www.bkprecision.com/products/power-supplies/9130C",
+  "programming_reference": "https://bkpmedia.s3.us-west-1.amazonaws.com/downloads/programming_manuals/en-us/9130C_Series_programming_manual.pdf",
+  "verification": "Disabled: C-series programming download labels itself B-series. Command verification required."
+}
