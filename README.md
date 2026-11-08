@@ -2,7 +2,7 @@
 
 Windows desktop control and monitoring for B&K Precision 9130B-series bench power supplies over USB. Set voltage and current limits, control each output, view live measurements and graphs, and record measurements to CSV.
 
-[Download installer or portable version](releases/) · [Screenshots](images/) · [Source code](BenchControl-9130B/)
+[Download the latest release](https://github.com/SpaceMonkey9000/BenchControl/releases/latest)
 
 ## Features
 
