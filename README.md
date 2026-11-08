@@ -46,7 +46,7 @@ The source version uses Python 3.11 or later, Tkinter and PyVISA. See the docume
 
 [View application screenshots](images/).
 
-![BenchControl main window](images/overcurrent.JPG)
+![BenchControl main window](images/interface_overcurrent.JPG)
 
 ![BenchControl main window](images/details.JPG)
 
